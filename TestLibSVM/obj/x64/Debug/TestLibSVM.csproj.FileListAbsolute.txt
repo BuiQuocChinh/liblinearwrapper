@@ -1,0 +1,12 @@
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\liblinear.dll
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\wine.txt
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\TestLibSVM.exe.config
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\TestLibSVM.exe
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\TestLibSVM.pdb
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\LibLinearSVM.dll
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\LibLinearSVM.pdb
+C:\Softs\Liblinear\TestLibSVM\obj\x64\Debug\TestLibSVM.csprojResolveAssemblyReference.cache
+C:\Softs\Liblinear\TestLibSVM\obj\x64\Debug\TestLibSVM.exe
+C:\Softs\Liblinear\TestLibSVM\obj\x64\Debug\TestLibSVM.pdb
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\news20.scale
+C:\Softs\Liblinear\TestLibSVM\bin\x64\Debug\news20.t.scale

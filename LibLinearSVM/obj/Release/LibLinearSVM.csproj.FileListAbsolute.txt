@@ -1,0 +1,6 @@
+E:\Users\bui\Sandbox\LibSVM\LibLinearSVM\bin\Release\LibLinearSVM.dll.config
+E:\Users\bui\Sandbox\LibSVM\LibLinearSVM\bin\Release\LibLinearSVM.dll
+E:\Users\bui\Sandbox\LibSVM\LibLinearSVM\bin\Release\LibLinearSVM.pdb
+E:\Users\bui\Sandbox\LibSVM\LibLinearSVM\obj\Release\LibLinearSVM.dll
+E:\Users\bui\Sandbox\LibSVM\LibLinearSVM\obj\Release\LibLinearSVM.pdb
+E:\Users\bui\Sandbox\LibSVM\LibLinearSVM\obj\Release\LibLinearSVM.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Softs\Liblinear\LibLinearSVM\bin\x86\Debug\liblinear.dll
+C:\Softs\Liblinear\LibLinearSVM\bin\x86\Debug\LibLinearSVM.dll.config
+C:\Softs\Liblinear\LibLinearSVM\bin\x86\Debug\LibLinearSVM.dll
+C:\Softs\Liblinear\LibLinearSVM\bin\x86\Debug\LibLinearSVM.pdb
+C:\Softs\Liblinear\LibLinearSVM\obj\x86\Debug\LibLinearSVM.csprojResolveAssemblyReference.cache
+C:\Softs\Liblinear\LibLinearSVM\obj\x86\Debug\LibLinearSVM.dll
+C:\Softs\Liblinear\LibLinearSVM\obj\x86\Debug\LibLinearSVM.pdb
