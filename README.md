@@ -1,7 +1,7 @@
 # Liblinearwrapper
 A compact C# wrapper for liblinear, see: https://github.com/cjlin1/liblinear for more detail.
 
-This project provides a mininum wrapper for liblinear version 2.01.
+This project provides a mininum wrapper for liblinear version 2.1.
 
 The wrapper classes are located in the LibLinearSVM folder.
 
